@@ -8,4 +8,4 @@
 7. dnf install perl
 8. dnf install flex
 9. dnf install bison
-이정도 이다 이것만 있어도 충분히 buildroot 가 
+이정도 이다 이것만 있어도 충분히 buildroot 가 작동할것이다 (아마도 이건 제 기준으로 설명한것입니다)
