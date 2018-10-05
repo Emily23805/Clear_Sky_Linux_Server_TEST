@@ -1,0 +1,11 @@
+이 설명서는 페도라 28 워크스테이션 기준으로 합니다
+1. dnf install ncurses-devel-6.1
+2. dnf install gcc-c++
+3. dnf install patch
+4. dnf install flex-devel
+5. dnf install bison-devel
+6. dnf install perl-devel
+7. dnf install perl
+8. dnf install flex
+9. dnf install bison
+이정도 이다 이것만 있어도 충분히 buildroot 가 
